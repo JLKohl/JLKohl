@@ -1,4 +1,4 @@
-# J.L. Kohl
+# Jennifer Kohl
 
 Junior pursuing a Bachelor of Science in Software Development  
 Brigham Young University–Idaho (Online) | Expected Fall 2027
