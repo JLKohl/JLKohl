@@ -1,74 +1,75 @@
 # Jennifer Kohl
+**Software Development Student | Exploring Creative Technology & Interactive Experiences**
+Brigham Young University–Idaho (Online) | B.S. in Software Development | Expected Fall 2027
 
-Junior pursuing a Bachelor of Science in Software Development  
-Brigham Young University–Idaho (Online) | Expected Fall 2027
+I’m a software development student interested in the intersection of **technology, creativity, and interactive experiences**. I enjoy building things, experimenting with new technologies, and exploring how software can create engaging experiences.
 
-Full-stack developer with a backend focus. Interested in API design, authentication systems, database architecture, and robotics.
+Currently exploring **Three.js, TypeScript, 3D web experiences, and interactive systems** while continuing to build a strong foundation in software development.
 
 ---
 
 ## Projects
 
-### Comic Vault API – RESTful API (Leadership Project)
+### Interactive 3D Web Experience – Three.js
 
-RESTful API for managing comic characters, issues, story arcs, and world-building data.
+An ongoing exploration of interactive 3D experiences on the web.
 
-- Led a 3-person development team, defining project scope, architecture, and implementation plan
-- Oversaw code reviews and merge approvals to ensure consistency and quality across the codebase
-- Developed RESTful API endpoints supporting CRUD operations and structured data handling
-- Implemented Swagger documentation using swagger-autogen for interactive API testing and usability
-- Deployed API on Render for public access and testing
+* Developed an interactive 3D environment using Three.js and TypeScript
+* Implemented interactive elements that respond to user input
+* Exploring 3D scenes, object interaction, and web-based visualization
+* Built and deployed using GitHub and Vercel
+
+GitHub Repository:
+https://github.com/JLKohl/threejs-playground
+
+Deployed on Vercel:
+https://threejs-playground-nine.vercel.app/
+
+*This is an ongoing project that I plan to continue expanding as I explore creative technology and interactive 3D development.*
+
+### Comic Vault API – RESTful API
+
+RESTful API for managing comic characters, story arcs, and world-building data.
+
+* Led a 3-person development team, defining project scope, architecture, and implementation plan
+* Oversaw code reviews and merge approvals to maintain consistency and quality
+* Developed RESTful API endpoints supporting CRUD operations and structured data handling
+* Implemented Swagger documentation for interactive API testing and usability
+* Deployed the API on Render for public access and testing
 
 GitHub Repository:
 https://github.com/JLKohl/comic-vault-api
-
-Live Deployment:
-https://comic-vault-api-vdbm.onrender.com
-
-
-### Full-Stack Messaging Web Application
-
-Node.js, Express, PostgreSQL, EJS
-
-- Messaging system with send, reply, archive, and unread tracking
-- Relational database design using primary and foreign keys
-- SQL query testing with pgAdmin and MySQL Workbench
-- User authorization and dynamic content rendering
-
-(Private academic project)
 
 ---
 
 ## Technical Skills
 
-Languages:
-Python | C# | JavaScript | SQL | HTML | CSS
+**Languages:** Python | C# | JavaScript | TypeScript | SQL | HTML | CSS
 
-Backend:
-Node.js | Express | REST APIs | Passport.js Authentication
+**Web & Interactive:** Three.js | Node.js | Express | REST APIs
 
-Databases:
-PostgreSQL | MySQL | MongoDB
+**Databases:** PostgreSQL | MySQL | MongoDB
 
-Concepts:
-Data Structures | Object-Oriented Programming | MVC | CRUD | Server-Side Validation
+**Concepts:** Object-Oriented Programming | MVC | CRUD | Data Structures | Server-Side Validation
 
-Tools:
-Git | GitHub | VS Code | Swagger | Render
+**Tools:** Git | GitHub | VS Code | Swagger | Vercel | Render
 
 ---
 
 ## Experience
 
-Special Education Paraprofessional
+### Special Education Paraprofessional
 
-Communication • Collaboration • Problem Solving • Organization • Time Management
+**Communication • Collaboration • Adaptability • Problem Solving • Organization**
+
+Working in a fast-paced environment that requires adapting to individual needs, collaborating with multidisciplinary teams, communicating clearly, and solving problems as they arise.
 
 ---
 
 ## Interests
 
-Backend Development  
-Full-Stack Web Applications  
-Robotics and Interactive Systems
-
+**Creative Technology**
+**Interactive 3D Experiences**
+**Web-Based Experiences**
+**Software Development**
+**Robotics & Interactive Systems**
