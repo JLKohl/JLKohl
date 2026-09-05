@@ -1,8 +1,9 @@
 # Jennifer Kohl
 **Software Development Student | Exploring Creative Technology & Interactive Experiences**
+
 Brigham Young University–Idaho (Online) | B.S. in Software Development | Expected July 2027
 
-I’m a software development student interested in the intersection of **technology, creativity, and interactive experiences**. I enjoy building things, experimenting with new technologies, and exploring how software can create engaging experiences.
+I’m a software development student interested in exploring **technology, creativity, and interactive experiences**. I enjoy exploring how software can create engaging experiences.
 
 Currently exploring **Three.js, TypeScript, 3D web experiences, and interactive systems** while continuing to build a strong foundation in software development.
 
@@ -25,7 +26,7 @@ https://github.com/JLKohl/threejs-playground
 Deployed on Vercel:
 https://threejs-playground-nine.vercel.app/
 
-*This is an ongoing project that I plan to continue expanding as I explore creative technology and interactive 3D development.*
+*This is an ongoing project that I plan to continue working on as I explore creative technology and interactive 3D development.The final product will be used as an interactive host site for my personal comic project "Wildly Imaginative" *
 
 ### Comic Vault API – RESTful API
 
