@@ -1,9 +1,9 @@
 # Jennifer Kohl
 **Software Development Student | Exploring Creative Technology & Interactive Experiences**
 
-Brigham Young University–Idaho (Online) | B.S. in Software Development | Expected July 2027
+Brigham Young University–Idaho (Online) | B.S. in Software Development expected July 2027
 
-I’m a software development student interested in exploring **technology, creativity, and interactive experiences**. I enjoy exploring how software can create engaging experiences.
+I am a software development student interested in exploring **technology, creativity, and interactive experiences**. I enjoy exploring how software can create engaging experiences.
 
 Currently exploring **Three.js, TypeScript, 3D web experiences, and interactive systems** while continuing to build a strong foundation in software development.
 
